@@ -1,0 +1,6 @@
+framework module KODJunkCodeCreater {
+  umbrella header "KODJunkCodeCreater.h"
+
+  export *
+  module * { export * }
+}
